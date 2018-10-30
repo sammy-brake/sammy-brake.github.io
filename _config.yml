@@ -1,11 +1,11 @@
 # Site settings
-author: Samantha brake
-title: 
+author: Samantha Brake
+title: Sammy Codes
 header-img: img/home-bg.png
 email: sammy.brake@gmail.com
-copyright_name: Samantha brake
+copyright_name: Samantha Brake
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Flatiron Student Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  sammy-brake
