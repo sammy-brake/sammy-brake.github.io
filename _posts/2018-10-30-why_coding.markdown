@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why coding?"
-date:       2018-10-30 19:55:25 +0000
+date:       2018-10-30 15:55:26 -0400
 permalink:  why_coding
 ---
 
@@ -9,7 +9,7 @@ permalink:  why_coding
 
 Hello! 
 
-The other day in my homeroom, I locked one of my students in my large storage closet without using a key.  How? I convinced him the door was locked by holding the knob when he tried it initially...and then I walked away.  He spent the rest of homeroom sitting in an unlocked closet while the rest of us died of silent laughter.  One of the goals of homeroom is to "build student community" and this prank definitely achieved that  (disclaimer: this student has a great sense of humor and loved being the recipient of the locked closet prank.  He now will try to hide in my closet to see if I notice).  
+The other day in my homeroom, I locked one of my students in my large storage closet **without** using a key.  How? I convinced him the door was locked by holding the knob when he tried it initially...and then I walked away.  He spent the rest of homeroom sitting in an unlocked closet while the rest of us died of silent laughter.  One of the goals of homeroom is to "build student community" and this prank definitely achieved that  (disclaimer: this student has a great sense of humor and loved being the recipient of the locked closet prank.  He now will try to hide in my closet to see if I notice).  
 
 This event left me with a great memory of just kicking it with my students, but has also given me a reflection point about the power of the locked-unlocked closet.  A lot of us have sat in an "unlocked closet."  What is an unlocked closet?  A common example is the student who doesn't apply themselves in my biology class because they don't think they are a "science" person.  For whatever reason, students will frequently arrive in my classroom with a preconceived notion of their ability to achieve.  I use that example because that was me in high school.  It wasn't until college that my first biology professor helped me open the unlocked door of my "closet" and achieve success in science.  I eventually evolved from being "not a science person" to being a science educator. 
 
